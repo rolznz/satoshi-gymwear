@@ -13,7 +13,7 @@ function App() {
         <ShopNow />
       </div>
       <div
-        className="w-full h-[50vh] lg:h-[70vh] mt-20 bg-center bg-cover relative"
+        className="w-full h-[50vh] lg:h-[70vh] mt-20 bg-center lg:bg-position-[50%_60%] bg-cover relative"
         style={{
           backgroundImage: `url(${img1})`,
         }}
@@ -23,17 +23,13 @@ function App() {
           <div>
             <p className="font-bold text-2xl font-heading">SATOSHI TANK</p>
             <p className="text-sm pt-2 font-content">
-              Subtle proof of work aesthetic
+              Pioneer tank built for bitcoiners
             </p>
           </div>
         </div>
         <div className="bg-linear-to-t from-transparent to-black w-full h-[25%] absolute top-0 left-0 opacity-50 pointer-events-none" />
         <div className="bg-linear-to-b from-transparent to-black w-full h-[50%] absolute bottom-0 left-0 pointer-events-none" />
       </div>
-      {/* <div className="flex gap-2 w-full items-center">
-        <img src={img1} className="w-64" />
-        <img src={img1} className="w-64" />
-      </div> */}
 
       <div className="p-8">
         <div>
