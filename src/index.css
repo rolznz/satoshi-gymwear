@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Sofia+Sans+Extra+Condensed:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --font-logo: "Sofia Sans Extra Condensed", sans-serif;
+  --font-heading: "Montserrat", sans-serif;
+  --font-content: "Roboto", sans-serif;
+}
