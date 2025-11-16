@@ -13,7 +13,7 @@ function App() {
         <ShopNow />
       </div>
       <div
-        className="w-full h-[70vh] bg-center bg-cover relative"
+        className="w-full h-[50vh] lg:h-[70vh] mt-20 bg-center bg-cover relative"
         style={{
           backgroundImage: `url(${img1})`,
         }}
@@ -56,7 +56,6 @@ function App() {
           </p>
           <p className="pt-4 font-content">
             We value a simple lifestyle, and our clothing designs reflect that.
-            SATOSHI GYMWEAR is an extension of your proof of work.
           </p>
         </div>
 
