@@ -13,7 +13,7 @@ function App() {
         <ShopNow />
       </div>
       <div
-        className="w-full h-[50vh] lg:h-[70vh] mt-20 bg-center lg:bg-position-[50%_60%] bg-cover relative"
+        className="w-full h-[50vh] lg:h-[70vh] mt-20 bg-center lg:bg-position-[50%_50%] bg-cover relative"
         style={{
           backgroundImage: `url(${img1})`,
         }}
@@ -88,7 +88,7 @@ function App() {
 function ShopNow() {
   return (
     <a
-      href="https://btcpay200292.lndyn.com/apps/44HM24bpTQME7zUDLUvRaqPeXKqG/pos"
+      href="https://pay.satoshigymwear.store/apps/44HM24bpTQME7zUDLUvRaqPeXKqG/pos"
       className=" bg-black text-white px-4 py-3 rounded-lg font-heading font-semibold drop-shadow-sm drop-shadow-black"
     >
       SHOP NOW
