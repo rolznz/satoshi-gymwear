@@ -41,8 +41,7 @@ function App() {
           </p>
           <p className="pt-4 font-content">
             Our clothing is made from 100% cotton; comfortable, natural, and
-            good for the skin. We only produce clothing we are proud of wearing
-            ourselves.
+            good for the skin. We only produce clothing we wear ourselves.
           </p>
         </div>
         <div className="pt-8">
