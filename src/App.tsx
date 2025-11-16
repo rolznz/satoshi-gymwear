@@ -89,7 +89,7 @@ function ShopNow() {
   return (
     <a
       href="https://pay.satoshigymwear.store/apps/44HM24bpTQME7zUDLUvRaqPeXKqG/pos"
-      className=" bg-black text-white px-4 py-3 rounded-lg font-heading font-semibold drop-shadow-sm drop-shadow-black"
+      className=" bg-black text-white px-4 py-3 rounded-lg font-heading font-semibold drop-shadow-sm"
     >
       SHOP NOW
     </a>
