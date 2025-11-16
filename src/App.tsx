@@ -1,5 +1,5 @@
 import "./index.css";
-import img1 from "./assets/1.png";
+import img1 from "./assets/1.jpg";
 import { BitcoinAcceptedHere } from "./icons/btc-accepted-here";
 
 function App() {
@@ -95,7 +95,7 @@ function ShopNow() {
   return (
     <a
       href="https://btcpay200292.lndyn.com/apps/44HM24bpTQME7zUDLUvRaqPeXKqG/pos"
-      className=" bg-white text-black px-4 py-3 rounded-lg font-heading font-semibold drop-shadow-lg"
+      className=" bg-black text-white px-4 py-3 rounded-lg font-heading font-semibold drop-shadow-sm drop-shadow-black"
     >
       SHOP NOW
     </a>
