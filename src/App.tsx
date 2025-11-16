@@ -38,12 +38,12 @@ function App() {
       <div className="p-8">
         <div>
           <h2 className="font-bold text-2xl">REAL WORKOUT CLOTHING</h2>
-          <p className="pt-4">
+          <p className="pt-4 font-content">
             Each product produced by SATOSHI GYMWEAR has been worn countless
             times by our team in the gym and outdoors, from simple workouts to
             calisthenics and powerlifting.
           </p>
-          <p className="pt-4">
+          <p className="pt-4 font-content">
             Our clothing is made from 100% cotton; comfortable, natural, and
             good for the skin. We only produce clothing we are proud of wearing
             ourselves.
@@ -51,8 +51,10 @@ function App() {
         </div>
         <div className="pt-8">
           <h2 className="font-bold text-2xl">SUBTLE DESIGN</h2>
-          <p className="pt-4">No bitcoin symbols or bright orange logos.</p>
-          <p className="pt-4">
+          <p className="pt-4 font-content">
+            No bitcoin symbols or bright orange logos.
+          </p>
+          <p className="pt-4 font-content">
             We value a simple lifestyle, and our clothing designs reflect that.
             SATOSHI GYMWEAR is an extension of your proof of work.
           </p>
@@ -60,20 +62,22 @@ function App() {
 
         <div className="pt-8">
           <h2 className="font-bold text-2xl">MADE IN THAILAND</h2>
-          <p className="pt-4">
+          <p className="pt-4 font-content">
             SATOSHI GYMWEAR is produced in a factory in Bangkok, Thailand. Our
             bulk clothing orders support the local economy.
           </p>
-          <p className="pt-4">Free shipping for all orders within Thailand.</p>
+          <p className="pt-4 font-content">
+            Free shipping for all orders within Thailand.
+          </p>
         </div>
 
         <div className="pt-8">
           <h2 className="font-bold text-2xl">PAY WITH BITCOIN</h2>
-          <p className="pt-4">
+          <p className="pt-4 font-content">
             SATOSHI GYMWEAR is the first bitcoin company building gymwear for
             individuals living on the bitcoin standard.
           </p>
-          <p className="pt-4">
+          <p className="pt-4 font-content">
             Pay with any lightning wallet to our own Alby Hub node. Payment
             gateway powered by BTCPayServer.
           </p>
