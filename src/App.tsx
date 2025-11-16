@@ -74,8 +74,8 @@ function App() {
         <div className="pt-8">
           <h2 className="font-bold text-2xl">PAY WITH BITCOIN</h2>
           <p className="pt-4 font-content">
-            SATOSHI GYMWEAR is the first bitcoin company building gymwear for
-            individuals living on the bitcoin standard.
+            SATOSHI GYMWEAR is the first producer of gymwear for individuals
+            living on the bitcoin standard.
           </p>
           <p className="pt-4 font-content">
             Pay with any lightning wallet to our own Alby Hub node. Payment
