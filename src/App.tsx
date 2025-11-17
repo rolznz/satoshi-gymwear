@@ -13,7 +13,7 @@ function App() {
         <ShopNow />
       </div>
       <div
-        className="w-full h-[50vh] lg:h-[70vh] mt-20 bg-center lg:bg-position-[50%_50%] bg-cover relative"
+        className="w-full h-[50vh] lg:h-[70vh] mt-20 bg-center lg:bg-position-[50%_60%] bg-cover relative"
         style={{
           backgroundImage: `url(${img1})`,
         }}
@@ -68,8 +68,8 @@ function App() {
         <div className="pt-8">
           <h2 className="font-bold text-2xl">PAY WITH BITCOIN</h2>
           <p className="pt-4 font-content">
-            SATOSHI GYMWEAR is the first producer of gymwear for individuals
-            living on the bitcoin standard.
+            SATOSHI GYMWEAR is the world's first producer of gymwear for
+            individuals living on the bitcoin standard.
           </p>
           <p className="pt-4 font-content">
             Pay with any lightning wallet to our own Alby Hub node. Payment
