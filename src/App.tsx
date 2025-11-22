@@ -79,6 +79,38 @@ function App() {
         </div>
 
         <div className="pt-8">
+          <h2 className="font-bold text-2xl">REFERRAL PROGRAM</h2>
+          <p className="pt-4 font-content">
+            Earn 10% per order of SATOSHI GYM WEAR using your custom referral
+            code.{" "}
+            <a
+              href="mailto:admin@mail.satoshigymwear.store"
+              className="underline"
+            >
+              Email us
+            </a>{" "}
+            to learn more.
+          </p>
+        </div>
+
+        <div className="pt-8">
+          <h2 className="font-bold text-2xl">CASHBACK</h2>
+          <p className="pt-4 font-content">
+            Earn up to 100% cashback by sharing a photo of you wearing your
+            SATOSHI GYMWEAR, along with proof of purchase. Cashback amount
+            decided by SATOSHI GYM WEAR team based on photo quality and social
+            reach / engagement.{" "}
+            <a
+              href="mailto:admin@mail.satoshigymwear.store"
+              className="underline"
+            >
+              Email us
+            </a>{" "}
+            to learn more.
+          </p>
+        </div>
+
+        <div className="pt-8">
           <h2 className="font-bold text-2xl">A MESSAGE FROM THE CREATOR</h2>
           <p className="pt-4 font-content">
             I'm an introvert software developer working on a bitcoin wallet who
