@@ -35,13 +35,14 @@ function App() {
         <div>
           <h2 className="font-bold text-2xl">REAL WORKOUT CLOTHING</h2>
           <p className="pt-4 font-content">
-            Each product produced by SATOSHI GYMWEAR has been worn countless
-            times by our team in the gym and outdoors, from simple workouts to
-            calisthenics and powerlifting.
+            Each product by SATOSHI GYMWEAR has been tested countless times in
+            the gym and outdoors, from simple workouts to calisthenics and
+            powerlifting.
           </p>
           <p className="pt-4 font-content">
             Our clothing is made from 100% cotton; comfortable, natural, and
-            good for the skin. We only produce clothing we wear ourselves.
+            good for the skin. We only sell clothing we are proud to wear
+            ourselves.
           </p>
         </div>
         <div className="pt-8">
@@ -74,6 +75,32 @@ function App() {
           <p className="pt-4 font-content">
             Pay with any lightning wallet to our own Alby Hub node. Payment
             gateway powered by BTCPayServer.
+          </p>
+        </div>
+
+        <div className="pt-8">
+          <h2 className="font-bold text-2xl">A MESSAGE FROM THE CREATOR</h2>
+          <p className="pt-4 font-content">
+            I'm an introvert software developer working on a bitcoin wallet who
+            sits at the PC for many hours every day. Going to the gym is a place
+            where I can rest my mind and train my body instead. For me, the
+            lifter's high is a wonderful feeling, it makes me truly feel alive.
+          </p>
+          <p className="pt-4 font-content">
+            Maybe you've heard of "One creative pursuit, one social thing, and
+            one physical activity" to be well-rounded and happy. For me the
+            first two mostly revolve around my work in bitcoin: building a
+            bitcoin wallet, and attending bitcoin events. For physical activity,
+            I go to the gym. Working out feels very bitcoin-aligned: it's
+            definitely proof of work.
+          </p>
+          <p className="pt-4 font-content">
+            Working out is a very individual thing: no-one can do it for you. By
+            wearing SATOSHI GYMWEAR you can feel part of a team of people
+            working endlessly in their own way to bring the world to the bitcoin
+            standard. Bring another small piece of bitcoin to your physical
+            activity by wearing SATOSHI GYMWEAR, and prompt people to think: who
+            is Satoshi?
           </p>
         </div>
 
